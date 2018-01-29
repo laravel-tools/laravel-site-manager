@@ -1,0 +1,14 @@
+{
+    "name": "laravel-tools/laravel-site-manager",
+    "description": "A package to enable your Laravel site to automatically generate decoupled frontends with SSR and API keys pre-installed.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Scott",
+            "email": "codetheorist@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
